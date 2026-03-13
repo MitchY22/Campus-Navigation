@@ -63,7 +63,6 @@ BUILDINGS.md
 - Implemented **Dijkstra’s shortest path algorithm**
 - Calculated path metrics such as total distance and node count
 - Designed backend architecture using Java interfaces
-- Provided APIs used by the frontend
 
 **Frontend (Partner Contribution)**
 

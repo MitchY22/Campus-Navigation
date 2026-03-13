@@ -1,0 +1,164 @@
+# Available Buildings
+
+The following building names can be used as valid inputs when searching for a path in the Campus Navigation Application.
+
+- 1 South Park UW Health Clinic
+- 1410 Engineering Dr
+- 206 Bernard Ct.
+- 21 N. Park St. and Lot 29 Ramp
+- 7-Eleven
+- Adams Residence Hall
+- Agricultural Dean's Residence
+- Agricultural Engineering
+- Agricultural Hall
+- Agricultural Heating Station
+- Air Force ROTC
+- Arthur D. Hasler Laboratory of Limnology
+- Athletic Operations Building
+- Atmospheric, Oceanic and Space Sciences
+- Babcock Hall
+- Bardeen Medical Laboratories
+- Barnard Residence Hall
+- Bascom Hall
+- Birge Hall
+- Bradley Memorial Building
+- Brat Stand
+- Brogden Psychology
+- Budget Bicycle Center - New Bicycles
+- Camp Randall Sports Center
+- Camp Randall Stadium
+- Campus Cars
+- Carillon Tower
+- Carson Gulley Center
+- Chadbourne Residence Hall
+- Chemistry Building
+- Choles Floral
+- Civil War Stockade
+- Computer Sciences and Statistics
+- Conrad A. Elvehjem Building
+- D.C. Smith Greenhouse
+- Davis Duehr Dean Eye Care
+- Davis Residence Hall
+- DeLuca Biochemical Sciences Building
+- DeLuca Biochemistry Building
+- DeLuca Biochemistry Laboratories
+- Educational Sciences
+- Education Building
+- Engineering Centers Building
+- Engineering Drive Ramp (Lot 17)
+- Engineering Hall
+- Engineering Research Building
+- Environmental Health and Safety Building
+- Field House
+- Fire Station No. 4
+- Fleet and Service Garage
+- Genetics-Biotechnology Center Building
+- Gilman House
+- Grainger Hall
+- Grand Central
+- Harlow Primate Laboratory
+- Helen C White Hall
+- Hiram Smith Hall
+- Hiram Smith Hall Annex
+- Hong Kong Cafe
+- Horticulture
+- Hotel Red
+- Humbucker Apartments
+- Humphrey Hall
+- Indie Coffee
+- Integrative Biology Research Building
+- Italian Workmen's Club
+- Jenson Auto
+- Jordan's Big Ten Pub
+- Jorns Hall
+- Kellner Hall
+- King Hall
+- Kosharie
+- Lark at Randall
+- Lathrop Hall
+- Law Building
+- Lot 36 - Observatory Drive Ramp
+- Luther Memorial Church
+- Mack House
+- Mark H Ingraham Hall
+- Materials Science and Engineering
+- McArdle Building
+- McClain Athletic Facility
+- McDonald's
+- Medical Sciences
+- Medical Sciences Center
+- Meiklejohn House
+- Memorial Arch
+- Memorial Union
+- Merit Residence Hall
+- Meriter Laboratories
+- Mechanical Engineering Building
+- Microbial Sciences Building
+- Mickies Dairy Bar
+- Moore Hall
+- Mosse Humanities Building
+- Music Hall
+- Nancy Nicholas Hall
+- Noland Hall
+- North Hall
+- Nutritional Sciences
+- Oakland on Monroe
+- Ogg Residence Hall
+- Park Regent Apartments
+- Phi Kappa Theta
+- Plant Sciences
+- Porter Boathouse
+- Porchlight
+- Radio Hall
+- Regent Street Liquor
+- Robert M. Bock Laboratories
+- Robert M. Lafollette School of Public Affairs
+- Russell Laboratories
+- Rust-Schreiner Hall
+- School of Social Work Building
+- Science Hall
+- Sconnie Bar
+- Sellery Residence Hall
+- Service Memorial Institute
+- Skywalk
+- Slichter Residence Hall
+- Smith Residence Hall
+- Soils Building
+- South Hall
+- Spring Brook Row Apartments
+- Steenbock Memorial Library
+- Sterling Hall
+- Stovall Building (Wisconsin State Laboratory of Hygiene)
+- Taylor Hall
+- Teacher Education
+- The Crossing
+- The Neighborhood House
+- The Regent Apartments
+- Thomas C. Chamberlin Hall
+- Tripp Residence Hall
+- Turner House
+- Union South
+- University Avenue Ramp (Lot 20)
+- University Club
+- UW Credit Union
+- UW Health 20 South Park Street Clinic North Building
+- UW Health 20 South Park Street Clinic South Building
+- UW-Madison Police and Security Building
+- Van Hise Hall
+- Van Vleck Hall
+- Vantage Point
+- Vilas Communication Hall
+- Washburn Observatory
+- Water Science & Engineering Laboratory
+- Waters Residence Hall
+- Weeks Hall for Geological Sciences
+- Wendt Commons
+- William H. Sewell Social Sciences Building
+- William S. Middleton Office Building
+- Wingstop
+- Wisconsin Energy Institute
+- Wisconsin Institute for Discovery
+- Wisconsin National Primate Research Center
+- Wisconsin Primate Center
+- Wisconsin State Historical Society
+- X01
